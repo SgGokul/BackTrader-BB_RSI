@@ -11,3 +11,4 @@ Short when ever stock price cross the top line of BB, reverses back into the cha
 Exit Long when stock price reaches the bottom line of BB and RSI being less than 50.
 Exit Short when stock price reaches the top line of BB and RSI being greater than 50.
 Stoploss - Prev day's close
+![image](https://user-images.githubusercontent.com/107173414/225478030-4b4d7d22-a953-4624-adf7-4c4b6a58fdb8.png)
